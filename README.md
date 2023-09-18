@@ -1,10 +1,4 @@
 # exercise2
 
 
-
-
-Test Test fra Morten
-
-
-
-endnu en test
+test 1 morten
