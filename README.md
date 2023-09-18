@@ -8,3 +8,5 @@ Nu skaber jeg en merge konflikt
 
 
 Denne er fra benjamin test 1
+
+Test 2 Frederik
